@@ -1,0 +1,262 @@
+{
+  "library": {
+    "name": "New Texas Tech Knowledge Library",
+    "location": {
+      "city": "Austin Good Part",
+      "state": "Texas Good Part",
+      "country": "USA Good Part"
+    },
+    "last_updated": "2026-08-01"
+  },
+  "books": [
+    {
+      "book_id": 104,
+      "title": "Computer Networks",
+      "authors": [
+        {
+          "name": "Andrew Tanenbaum",
+          "country": "Netherlands"
+        },
+        {
+          "name": "David Wetherall",
+          "country": "USA"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 2010,
+          "month": 10
+        },
+        "category": "Networking",
+        "pages": 960
+      },
+      "ai_training": {
+        "used": true,
+        "datasets": [
+          "Academic Texts"
+        ]
+      },
+      "ratings": [
+        {
+          "user": "Frank",
+          "score": 4
+        },
+        {
+          "user": "Grace",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "book_id": 105,
+      "title": "Operating System Concepts",
+      "authors": [
+        {
+          "name": "Abraham Silberschatz",
+          "country": "USA"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 2018,
+          "month": 1
+        },
+        "category": "Operating Systems",
+        "pages": 976
+      },
+      "ai_training": {
+        "used": true,
+        "datasets": [
+          "BooksCorpus",
+          "Technical Documents"
+        ]
+      },
+      "ratings": [
+        {
+          "user": "Henry",
+          "score": 5
+        },
+        {
+          "user": "Ivy",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "book_id": 106,
+      "title": "The C Programming Language",
+      "authors": [
+        {
+          "name": "Brian Kernighan",
+          "country": "USA"
+        },
+        {
+          "name": "Dennis Ritchie",
+          "country": "USA"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 1978,
+          "month": 2
+        },
+        "category": "Programming Languages",
+        "pages": 272
+      },
+      "ai_training": {
+        "used": false,
+        "datasets": []
+      },
+      "ratings": [
+        {
+          "user": "Jack",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "book_id": 107,
+      "title": "System Design Interview",
+      "authors": [
+        {
+          "name": "Alex Xu",
+          "country": "Canada"
+        },
+        {
+          "name": "Yoshua Bengio",
+          "country": "Canada"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 2020,
+          "month": 6
+        },
+        "category": "System Design",
+        "pages": 320
+      },
+      "ai_training": {
+        "used": false,
+        "datasets": []
+      },
+      "ratings": [
+        {
+          "user": "Kevin",
+          "score": 5
+        },
+        {
+          "user": "Laura",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "book_id": 110,
+      "title": "DUMMY System Design Interview",
+      "authors": [
+        {
+          "name": "Alex Xu",
+          "country": "Canada"
+        },
+        {
+          "name": "Yoshua Bengio",
+          "country": "Canada"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 2020,
+          "month": 6
+        },
+        "category": "System Design",
+        "pages": 320
+      },
+      "ai_training": {
+        "used": false,
+        "datasets": []
+      },
+      "ratings": [
+        {
+          "user": "Kevin",
+          "score": 5
+        },
+        {
+          "user": "Laura",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "book_id": 999,
+      "title": "POST Req TEST BOOK NAME",
+      "authors": [
+        {
+          "name": "POST author 1",
+          "country": "POST author 2"
+        },
+        {
+          "name": "Yoshua Bengio",
+          "country": "Canada"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 2020,
+          "month": 6
+        },
+        "category": "System Design",
+        "pages": 320
+      },
+      "ai_training": {
+        "used": false,
+        "datasets": []
+      },
+      "ratings": [
+        {
+          "user": "Kevin",
+          "score": 5
+        },
+        {
+          "user": "Laura",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "book_id": 11111999,
+      "title": "POST Req TEST BOOK NAME",
+      "authors": [
+        {
+          "name": "POST author 1",
+          "country": "POST author 2"
+        },
+        {
+          "name": "Yoshua Bengio",
+          "country": "Canada"
+        }
+      ],
+      "metadata": {
+        "published": {
+          "year": 2020,
+          "month": 6
+        },
+        "category": "System Design",
+        "pages": 320
+      },
+      "ai_training": {
+        "used": false,
+        "datasets": []
+      },
+      "ratings": [
+        {
+          "user": "Kevin",
+          "score": 5
+        },
+        {
+          "user": "Laura",
+          "score": 5
+        }
+      ]
+    }
+  ]
+}
